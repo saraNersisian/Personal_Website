@@ -1,0 +1,17 @@
+body{
+  background-color: #FAEDF0
+}
+hr{
+  border-style: none;
+  border-top:5px dotted #864879;
+  width: 6%;
+}
+h1{
+  color: #1F1D36
+}
+h2{
+  color: #3F3351
+}
+p,dd,td{
+  color: #1F1D36
+}
